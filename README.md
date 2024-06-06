@@ -29,8 +29,8 @@ Textual analysis is performed on the extracted article text to compute the follo
 ## File Structure
 - `input.xlsx`: Contains the URLs for the articles to be analyzed.
 - `text_analysis.ipynb`: Script for extracting article text from the given URLs and performing textual analysis on the extracted texts.
-- 'StopWords-20240606T132936Z-001.zip'
-- 'MasterDictionary-20240606T132842Z-001.zip'
+- `StopWords-20240606T132936Z-001.zip`
+- `MasterDictionary-20240606T132842Z-001.zip`
 
 ## Variables Explanation
 Detailed definitions of the variables computed during text analysis can be found in the `Text Analysis.docx` file.
