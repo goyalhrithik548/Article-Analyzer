@@ -26,14 +26,11 @@ Textual analysis is performed on the extracted article text to compute the follo
 - Python 3.x
 - Libraries: BeautifulSoup, requests, nltk, textstat, openpyxl, pandas
 
-## Output
-- The results will be saved in `output.xlsx` in the format specified by `Output Data Structure.xlsx`.
-
 ## File Structure
 - `input.xlsx`: Contains the URLs for the articles to be analyzed.
-- `extract_articles.py`: Script for extracting article text from the given URLs.
-- `text_analysis.py`: Script for performing textual analysis on the extracted texts.
-- `output.xlsx`: The final output containing the computed variables for each article.
+- `text_analysis.ipynb`: Script for extracting article text from the given URLs and performing textual analysis on the extracted texts.
+- 'StopWords-20240606T132936Z-001.zip'
+- 'MasterDictionary-20240606T132842Z-001.zip'
 
 ## Variables Explanation
 Detailed definitions of the variables computed during text analysis can be found in the `Text Analysis.docx` file.
@@ -44,3 +41,7 @@ Detailed definitions of the variables computed during text analysis can be found
 
 ## Acknowledgments
 This project leverages multiple Python libraries for web scraping and text analysis. Special thanks to the developers of BeautifulSoup, requests, nltk, textstat, openpyxl, and pandas for their contributions to the Python ecosystem.
+
+## Created By
+Hrithik Kumar
+goyalhrithik548@gmail.com
