@@ -32,9 +32,8 @@ Textual analysis is performed on the extracted article text to compute the follo
 ## File Structure
 - `input.xlsx`: Contains the URLs for the articles to be analyzed.
 - `extract_articles.py`: Script for extracting article text from the given URLs.
-- `analyze_texts.py`: Script for performing textual analysis on the extracted texts.
+- `text_analysis.py`: Script for performing textual analysis on the extracted texts.
 - `output.xlsx`: The final output containing the computed variables for each article.
-- `requirements.txt`: List of required Python libraries.
 
 ## Variables Explanation
 Detailed definitions of the variables computed during text analysis can be found in the `Text Analysis.docx` file.
