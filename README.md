@@ -1,7 +1,7 @@
 # Article Analyzer
 
 ## Objective
-This project involves extracting textual data from a set of URLs and performing text analysis to compute various linguistic metrics. The URLs are provided in an Excel file (`input.xlsx`), and the extracted data is analyzed to generate outputs in the format specified by the `Output Data Structure.xlsx` file.
+This project involves extracting textual data from a set of URLs and performing text analysis to compute various linguistic metrics. The URLs are provided in an Excel file (`input.xlsx`), and the extracted data is analyzed to generate outputs in the format specified by the `Output.xlsx` file.
 
 ## Data Extraction
 The goal is to extract the article title and article text from each URL, ignoring headers, footers, and other non-article content. The extracted text for each article is saved in a text file named after the URL_ID.
